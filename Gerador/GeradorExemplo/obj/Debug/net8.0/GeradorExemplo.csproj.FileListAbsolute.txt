@@ -1,0 +1,14 @@
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\bin\Debug\net8.0\GeradorExemplo.exe
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\bin\Debug\net8.0\GeradorExemplo.deps.json
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\bin\Debug\net8.0\GeradorExemplo.runtimeconfig.json
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\bin\Debug\net8.0\GeradorExemplo.dll
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\bin\Debug\net8.0\GeradorExemplo.pdb
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.AssemblyInfoInputs.cache
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.AssemblyInfo.cs
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.csproj.CoreCompileInputs.cache
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.dll
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\refint\GeradorExemplo.dll
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.pdb
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\GeradorExemplo.genruntimeconfig.cache
+C:\dev\pessoal\GeradorExemplo\GeradorExemplo\obj\Debug\net8.0\ref\GeradorExemplo.dll
